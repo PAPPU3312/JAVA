@@ -1,11 +1,9 @@
 public class HelloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello, World!");
-        if (args.length > 0) {
-            String name = args[0];
-            System.out.println("Nice to meet you, " + name + "!");
-        } else {
-            System.out.println("No name provided!");
-        }
+       int num = 10;
+        double price = 19.99;
+        boolean isTrue = True;
+        System.out.println("Number: "+num+"Price: "+price);
     }
 }
+
