@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner
 
 class Student {
     String name;
@@ -49,3 +49,4 @@ public class StudentRegistry {
         scanner.close();
     }
 }
+
